@@ -27,7 +27,7 @@ namespace Ex_4
 
             Console.WriteLine($"a = {a}, b = {b}");
 
-            // Без использования третьей переменной
+            // Без использования третьей переменной с использованием логического или
             Console.WriteLine("Enter first variable");
             int c = Convert.ToInt32(Console.ReadLine());
 
@@ -39,10 +39,6 @@ namespace Ex_4
             c = c ^ d;
 
             Console.WriteLine($"c = {c}, d = {d}");
-
-
-
-
 
 
         }

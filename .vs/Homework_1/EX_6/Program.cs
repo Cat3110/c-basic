@@ -8,7 +8,7 @@ namespace EX_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Program \"Class\"");
 
         }
     }
