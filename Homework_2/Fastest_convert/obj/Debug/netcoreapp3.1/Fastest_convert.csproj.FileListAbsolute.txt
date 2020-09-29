@@ -1,0 +1,13 @@
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\bin\Debug\netcoreapp3.1\Fastest_convert.exe
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\bin\Debug\netcoreapp3.1\Fastest_convert.deps.json
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\bin\Debug\netcoreapp3.1\Fastest_convert.runtimeconfig.json
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\bin\Debug\netcoreapp3.1\Fastest_convert.runtimeconfig.dev.json
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\bin\Debug\netcoreapp3.1\Fastest_convert.dll
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\bin\Debug\netcoreapp3.1\Fastest_convert.pdb
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\obj\Debug\netcoreapp3.1\Fastest_convert.csprojAssemblyReference.cache
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\obj\Debug\netcoreapp3.1\Fastest_convert.AssemblyInfoInputs.cache
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\obj\Debug\netcoreapp3.1\Fastest_convert.AssemblyInfo.cs
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\obj\Debug\netcoreapp3.1\Fastest_convert.csproj.CoreCompileInputs.cache
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\obj\Debug\netcoreapp3.1\Fastest_convert.dll
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\obj\Debug\netcoreapp3.1\Fastest_convert.pdb
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Fastest_convert\obj\Debug\netcoreapp3.1\Fastest_convert.genruntimeconfig.cache
