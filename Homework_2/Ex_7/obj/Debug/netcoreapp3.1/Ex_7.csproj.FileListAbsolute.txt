@@ -1,0 +1,12 @@
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\obj\Debug\netcoreapp3.1\Ex_7.AssemblyInfoInputs.cache
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\obj\Debug\netcoreapp3.1\Ex_7.AssemblyInfo.cs
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\obj\Debug\netcoreapp3.1\Ex_7.csproj.CoreCompileInputs.cache
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\bin\Debug\netcoreapp3.1\Ex_7.exe
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\bin\Debug\netcoreapp3.1\Ex_7.deps.json
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\bin\Debug\netcoreapp3.1\Ex_7.runtimeconfig.json
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\bin\Debug\netcoreapp3.1\Ex_7.runtimeconfig.dev.json
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\bin\Debug\netcoreapp3.1\Ex_7.dll
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\bin\Debug\netcoreapp3.1\Ex_7.pdb
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\obj\Debug\netcoreapp3.1\Ex_7.dll
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\obj\Debug\netcoreapp3.1\Ex_7.pdb
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_2\Ex_7\obj\Debug\netcoreapp3.1\Ex_7.genruntimeconfig.cache
