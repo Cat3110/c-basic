@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex_1/1.0.0": {
+        "dependencies": {
+          "Fastest_convert": "1.0.0"
+        },
+        "runtime": {
+          "Ex_1.dll": {}
+        }
+      },
+      "Fastest_convert/1.0.0": {
+        "runtime": {
+          "Fastest_convert.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fastest_convert/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
