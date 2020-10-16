@@ -1,0 +1,11 @@
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\bin\Debug\Ex_2.exe.config
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\bin\Debug\Ex_2.exe
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\bin\Debug\Ex_2.pdb
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.Form1.resources
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.Properties.Resources.resources
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.csproj.GenerateResource.cache
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.csproj.CoreCompileInputs.cache
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.exe
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.pdb
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.Form2.resources
+C:\Users\egor\OneDrive\Документы\Learning\Geekbrains\Game Development\C#Basic\Homework_7\Ex_2\obj\Debug\Ex_2.csprojAssemblyReference.cache
